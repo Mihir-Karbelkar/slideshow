@@ -1,7 +1,7 @@
 # Slideshow
 Shows a slideshow of images of the word entered.... Was a good timepass...
 
-> pip install requirements.tx 
+> pip install requirements.txt
 
 Should have tkinter installed
 
